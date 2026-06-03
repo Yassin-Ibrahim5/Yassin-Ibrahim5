@@ -119,3 +119,15 @@ A Prolog-based robot navigation system using classical search algorithms.
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yassin-Ibrahim5&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yassin-Ibrahim5&theme=tokyonight" />
 </p>
+
+---
+ 
+## 🐍 Contribution Snake
+ 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yassin-Ibrahim5/Yassin-Ibrahim5/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yassin-Ibrahim5/Yassin-Ibrahim5/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Yassin-Ibrahim5/Yassin-Ibrahim5/output/github-snake.svg" />
+  </picture>
+</p>
