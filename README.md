@@ -83,7 +83,7 @@ A clean, intuitive app to split bills and track shared expenses with friends.
 ### 🧠 TutorLink — Tutor Marketplace
 
 A full-stack marketplace connecting students with tutors, featuring search/filtering, tutor profiles, and a student dashboard.
-
+> **Live:** [tutorlink-lac.vercel.app](https://tutorlink-lac.vercel.app/)
 `Next.js 15` `Firebase` `NextAuth` `Tailwind CSS`
 
 ---
@@ -96,17 +96,6 @@ An AI-powered implementation of Viking Chess (Hnefatafl) with an intelligent opp
 - 🖥️ **Pygame** GUI for interactive gameplay
 
 `Python` `Pygame` `Alpha-Beta Pruning`
-
----
-
-### 🤖 Rescue Robot Navigation
-
-A Prolog-based robot navigation system using classical search algorithms.
-
-- 🗺️ **UCS**, **BFS**, and **Greedy Best-First Search** strategies
-- Logic programming approach to path planning
-
-`Prolog` `AI Search Algorithms`
 
 ---
 
