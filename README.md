@@ -21,7 +21,7 @@
 I'm a Computer Science student at the Faculty of Computers and Artificial Intelligence, Cairo University, passionate about building full-stack web applications. I love turning ideas into polished, production-ready products.
 
 - 🔭 Currently building: full-stack apps with **Next.js**, **Firebase**, and **TypeScript**
-- 🎓 Studying: Information Systems as a Major
+- 🎓 Studying: I am majoring in Information Systems
 - 🧠 Interests: Web development, intelligent systems, algorithm design
 - 📫 Reach me at: **yassinhafez661@gmail.com**
 
@@ -40,7 +40,7 @@ I'm a Computer Science student at the Faculty of Computers and Artificial Intell
 ![Laravel](https://img.shields.io/badge/Laravel-2e2e2e?style=flat-square&logo=laravel)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
-### Programming Languages 
+### Languages 
 ![HTML](https://img.shields.io/badge/HTML-5+-E34F26?logo=html5)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -75,7 +75,7 @@ A full-featured e-commerce web app built with Next.js 15 (App Router) and TypeSc
 ### 💸 [Splitly](https://github.com/Yassin-Ibrahim5/Splitly) — Bill Splitting App
 
 A clean, intuitive app to split bills and track shared expenses with friends.
-
+> **Live:** [splitly-pi.vercel.app](https://splitly-pi.vercel.app/)
 `Next.js` `TypeScript` `Firebase` `Tailwind CSS`
 
 ---
